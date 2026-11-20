@@ -4,10 +4,11 @@ CLOUD DATA STORAGE SERVER
 
 Name : Jaihari S
 Reg.No : 212225230109
-AIM
+
+## AIM
 To create and configure an Amazon RDS MySQL DB instance with Multi-AZ deployment, connect it to a web application using a security group and DB subnet group, and perform CRUD (Create, Read, Update, Delete) operations on the database through the application.
 
-ALGORITHM
+## ALGORITHM
 1.Log in to the AWS Management Console.
 
 2.Create a DB Security Group allowing MySQL (3306) access from the Web Security Group.
@@ -26,7 +27,7 @@ ALGORITHM
 
 9.Test the application by adding, editing, viewing, and deleting records.
 
-***Output***
+## Output
 
 <img width="1892" height="812" alt="Screenshot 2026-08-07 191926" src="https://github.com/user-attachments/assets/55f3288c-de21-46a2-8445-abd538b8e039" />
 
@@ -39,6 +40,6 @@ ALGORITHM
 
 
 
-***RESULT***
+## RESULT
 Successfully created and configured an Amazon RDS MySQL Multi-AZ database, connected it to the web application, and performed database operations (insert, update, delete, and retrieve records) successfully.
 
